@@ -15,6 +15,7 @@ public class Proyecto_normal {
      */
     public static void main(String[] args) {
         System.out.println("JHAN GAY");
+        System.out.println("David gay");
     }
     
 }
